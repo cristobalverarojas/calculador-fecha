@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculador-fecha/static/css/main.41bd480b.css",
+    "main.js": "/calculador-fecha/static/js/main.13d7d6d8.js",
+    "static/js/453.86358274.chunk.js": "/calculador-fecha/static/js/453.86358274.chunk.js",
+    "index.html": "/calculador-fecha/index.html",
+    "static/media/icon-arrow.svg": "/calculador-fecha/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.41bd480b.css.map": "/calculador-fecha/static/css/main.41bd480b.css.map",
+    "main.13d7d6d8.js.map": "/calculador-fecha/static/js/main.13d7d6d8.js.map",
+    "453.86358274.chunk.js.map": "/calculador-fecha/static/js/453.86358274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41bd480b.css",
+    "static/js/main.13d7d6d8.js"
+  ]
+}
