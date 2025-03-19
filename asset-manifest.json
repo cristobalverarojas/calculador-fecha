@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/calculador-fecha/static/css/main.d429ccdd.css",
-    "main.js": "/calculador-fecha/static/js/main.13d7d6d8.js",
+    "main.css": "/calculador-fecha/static/css/main.ca0746cf.css",
+    "main.js": "/calculador-fecha/static/js/main.ea71c63c.js",
     "static/js/453.86358274.chunk.js": "/calculador-fecha/static/js/453.86358274.chunk.js",
     "index.html": "/calculador-fecha/index.html",
     "static/media/icon-arrow.svg": "/calculador-fecha/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
-    "main.d429ccdd.css.map": "/calculador-fecha/static/css/main.d429ccdd.css.map",
-    "main.13d7d6d8.js.map": "/calculador-fecha/static/js/main.13d7d6d8.js.map",
+    "main.ca0746cf.css.map": "/calculador-fecha/static/css/main.ca0746cf.css.map",
+    "main.ea71c63c.js.map": "/calculador-fecha/static/js/main.ea71c63c.js.map",
     "453.86358274.chunk.js.map": "/calculador-fecha/static/js/453.86358274.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d429ccdd.css",
-    "static/js/main.13d7d6d8.js"
+    "static/css/main.ca0746cf.css",
+    "static/js/main.ea71c63c.js"
   ]
 }
